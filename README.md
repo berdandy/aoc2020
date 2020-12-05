@@ -9,7 +9,4 @@ Technology count by days:
 - tr: 1
 - sed: 1
 - bc: 1
-- cat/head/tail: 1
-- cut: 1
-- sort: 1
-- grep: 1
+- misc unix commandline utilities: 1

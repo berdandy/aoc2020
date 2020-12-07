@@ -3,7 +3,7 @@
 Some playing around with rust this year. Some hacking around with absurd solutions.
 
 Technology count by days:
-- rust: 3
+- rust: 4
 - awk: 2
 - bash: 1
 - tr: 1

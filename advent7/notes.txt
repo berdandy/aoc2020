@@ -1,0 +1,8 @@
+1. find bags that hold only the target directly, advance index in bag list, push in bag list
+ "X contains.*target"
+
+2. delete those lines (or save non-lines into next iteration)
+
+3. then, find bags that can contain any of those bags found in 1.
+
+4. Repeat 2-3
